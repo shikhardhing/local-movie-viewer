@@ -1,0 +1,34 @@
+.card-content{
+	height:120px;
+}
+body{
+	background-color: rgb(245,245,245);
+}
+.categ{
+	margin-left: 8%;
+	margin-top: 20px;
+  	display: inline-block;
+}
+.red-color{
+	color:#F44336 !important; 
+}
+.container {
+	display: inline-block;
+	margin-left: 10%;
+  width: 90%;
+}
+.btn-row-genre{
+
+}
+.more{
+	float:right;
+	display: inline-block;
+	margin-right:10%;
+	margin-top: 1%;
+}
+.more-all{
+	float:right;
+	display: inline-block;
+	margin-right:10%;
+	margin-top: 1%;
+}
